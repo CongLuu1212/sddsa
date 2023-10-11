@@ -1,0 +1,60 @@
+header, section, footer, aside, nav,
+article, figure, figcaption {
+    display: block;}
+body {
+    background-color:rgb(76, 75, 75);
+    line-height: 1.4em;
+}
+ul li {
+    display: inline;
+    margin: 0px 15px;
+    padding: 0px;
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+ header {
+    text-align: right;
+    
+ }   
+
+
+#P {
+    /* width: 500;
+    min-height: 100px;
+    border: 1px solid #ffffff;
+    float: left;
+    margin-bottom: 5px;
+    background-color: #DCD; */
+    width: 300px;
+    height: 500px;
+    background-color: #ffffff;
+    float: left;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+
+}
+#right {
+    width: 1000px;
+    min-height: 500px;
+    border: 1px solid #666666;
+    margin-bottom: 5px;
+    background-color: rgb(156, 145, 145);
+    float: left;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+div {
+    color: #ffffff;    
+}
+h1 {
+    color:#ffffff;
+}
+p {
+    margin-left: 10px;
+}
+
+
+    
